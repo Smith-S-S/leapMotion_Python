@@ -1,3 +1,3 @@
 # leapMotion_Python
 
-How to run integrate the Leap Motion with the Python:
+How to run and integrate the Leap Motion with Python:
