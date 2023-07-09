@@ -1,6 +1,5 @@
+# this wiil give the names of the hands that are up 
 import Leap, sys, time
-
-
 class SampleListener(Leap.Listener):
     finger_names = ['Thumb', 'Index', 'Middle', 'Ring', 'Pinky']
 
